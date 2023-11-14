@@ -9,3 +9,4 @@ def make_snippet(text):
 
 def count_words(text):
     return len(text.split())
+#Tom's comment
